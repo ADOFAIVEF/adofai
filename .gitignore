@@ -1,0 +1,16 @@
+node_modules
+dist
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+# qwq
+pnpm-lock.yaml
+rubbish
+* copy
+* copy.*
+public/local
+public/lib
+public/utils
+public/service-worker.js
