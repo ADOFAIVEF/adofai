@@ -4,4 +4,4 @@
 
 ![封面](https://raw.githubusercontent.com/ADOFAIVEF/adofai/main/Assets/Image_1724945332813.png)
 
-[下载链接] (https://share.weiyun.com/dLLoBsD1)
+![下载链接](https://share.weiyun.com/dLLoBsD1)
