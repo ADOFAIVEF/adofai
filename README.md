@@ -2,8 +2,6 @@
 
 1.无限天堂
 
-![这是图片](https://github.com/ADOFAIVEF/adofai/blob/main/Assets/img1.png?raw=true)
+![封面](https://raw.githubusercontent.com/ADOFAIVEF/adofai/main/Assets/Image_1724945332813.png)
 
-下载链接
-
-https://share.weiyun.com/dLLoBsD1
+[下载链接] (https://share.weiyun.com/dLLoBsD1)
